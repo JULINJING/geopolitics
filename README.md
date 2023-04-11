@@ -2,8 +2,8 @@
 **国际关系中的重复囚徒困境博弈——模拟接壤国家区域霸权竞争驱动的双边关系**
 
 # Home page and principle
-!(main.png)
-!(principle.svg)
+![主要页面](main.png)<br>
+![模型原理](principle.svg)
 
 # What is it?
 &emsp;&emsp;本模型为武汉大学遥感信息工程学院2020级本科生黄梓涛为完成贾涛老师《地理建模方法》课程结课要求编写的Netlogo模型。<br>
