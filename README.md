@@ -1,7 +1,7 @@
 # geopolitics
 **国际关系中的重复囚徒困境博弈——模拟接壤国家区域霸权竞争驱动的双边关系**
 
-python文件用作模型所得数据分析所用
+python文件用作模型所得数据分析所用，所读取的csv文件需要运行geopolitics.nlogo文件生成
 # Home page and principle
 ![主要页面](main.png)<br>
 ![模型原理](principle.svg)
